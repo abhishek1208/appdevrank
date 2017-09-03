@@ -4,6 +4,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'app-dev-rank',
+    podModulePrefix: 'app-dev-rank/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
