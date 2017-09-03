@@ -1,0 +1,6 @@
+{
+  "name": "app-dev-rank",
+  "dependencies": {
+    "semantic-ui": "^2.2.13"
+  }
+}
